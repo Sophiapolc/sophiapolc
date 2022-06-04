@@ -1,6 +1,6 @@
 # Bem-Vindo ⚡
 <p> Olá, meu nome é Sophia, atualmente tenho 16 anos e estou apredendo programação!! <p>
-  <P>Começei Nesse ano de 2022 a programar pois estou cursando Desenvolvimento de Sistemas na Etec!<p> 
+  <P>Começei nesse ano de 2022 a programar pois estou cursando Desenvolvimento de Sistemas na Etec!<p> 
   <p> Irei postar aqui meus códigos e cursos que estou fazendo 😄.<p>
     
   
