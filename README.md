@@ -1,4 +1,9 @@
-### Hi there 👋
+# Bem-Vindo ⚡
+<p> Olá, meu nome é Sophia, atualmente tenho 16 anos e estou apredendo programação!! <p>
+  <p> Irei postar aqui meus códigos e cursos que estou fazendo <p>
+    
+  
+  
 
 <!--
 **Sophiapolc/sophiapolc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
